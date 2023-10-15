@@ -2,6 +2,10 @@ header {
     text-align: center;
     font-size: 400%;
   }
+
+  h2 {
+ font-style: red;
+  }
   
   table {
    margin-left: auto;
@@ -20,4 +24,3 @@ header {
   td {
     padding: 1em;
   }
-  
